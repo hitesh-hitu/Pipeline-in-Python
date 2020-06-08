@@ -1,4 +1,4 @@
-# Pipeline-in-Python
+# Pipeline in Python
 How to create a pipeline in python
 
 Python scikit-learn provides a benefit to automate the machine learning tasks.
